@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "296280318232",
+    "firebase_url": "https://socialnetworking-c27f1.firebaseio.com",
+    "project_id": "socialnetworking-c27f1",
+    "storage_bucket": "socialnetworking-c27f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296280318232:android:d9b38aaea04eaba3",
+        "android_client_info": {
+          "package_name": "com.epiphany.aditkotwal.socialnetworking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296280318232-qf74q3h9kvpgivb9usk4rb8gl6dlgeni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epiphany.aditkotwal.socialnetworking",
+            "certificate_hash": "638449858b5a29ba38f1bf6bb4f89ca9d96a7d48"
+          }
+        },
+        {
+          "client_id": "296280318232-9nmogul844l07adae1a2lgmdgd4bu5e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7v80Vtz9KEZa_oBVNOWraFNYbVxXmeUY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296280318232-9nmogul844l07adae1a2lgmdgd4bu5e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
